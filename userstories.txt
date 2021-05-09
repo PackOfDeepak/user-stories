@@ -1,0 +1,8 @@
+Auth
+-I want to be able to make sure the trading is working
+-make sure it is fair
+- make sure it is easy
+User
+-I want to be able to send and get things
+-I should have a profile to login to
+-I should be able to trade whatever i want with my info private as possible
